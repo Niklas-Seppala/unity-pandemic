@@ -1,0 +1,572 @@
+fileFormatVersion: 2
+guid: da083c39023c144459e9967f33d32575
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3337791836783046898
+    second: player_facemask_gun_0
+  - first:
+      213: 3810858600876667458
+    second: player_facemask_gun_1
+  - first:
+      213: 322806672933892680
+    second: player_facemask_gun_2
+  - first:
+      213: 2592750384271348282
+    second: player_facemask_gun_3
+  - first:
+      213: -123321109313214303
+    second: player_facemask_gun_4
+  - first:
+      213: -633076060342858786
+    second: player_facemask_gun_5
+  - first:
+      213: -9163687261308084187
+    second: player_facemask_gun_6
+  - first:
+      213: -8286683271336013644
+    second: player_facemask_gun_7
+  - first:
+      213: 2869655285917966831
+    second: player_facemask_gun_8
+  - first:
+      213: 8015939246145552889
+    second: player_facemask_gun_9
+  - first:
+      213: -824429388557916278
+    second: player_facemask_gun_10
+  - first:
+      213: -3850848174577502622
+    second: player_facemask_gun_11
+  - first:
+      213: 3666451588338959899
+    second: player_facemask_gun_12
+  - first:
+      213: -6703385385210674821
+    second: player_facemask_gun_13
+  - first:
+      213: 8253856075325280263
+    second: player_facemask_gun_14
+  - first:
+      213: 8713467103013653334
+    second: player_facemask_gun_15
+  - first:
+      213: -7502925692235696505
+    second: player_facemask_gun_16
+  - first:
+      213: -3762856770757558063
+    second: player_facemask_gun_17
+  - first:
+      213: 7927842923048485831
+    second: player_facemask_gun_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_facemask_gun_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.31789455, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0f6adbdf7325e20800000000000000
+      internalID: 3337791836783046898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_1
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.30269146, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242fe7ae4b3e2e430800000000000000
+      internalID: 3810858600876667458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.31747717, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842b95f65f6da7400800000000000000
+      internalID: 322806672933892680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.316654, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3250cdccbc4bf320800000000000000
+      internalID: 2592750384271348282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_4
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.36947352, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8241eba10e94ef0800000000000000
+      internalID: -123321109313214303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.29999962, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbc5736dacd637f0800000000000000
+      internalID: -633076060342858786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_6
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30018616, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520a5f4bcfa04d080800000000000000
+      internalID: -9163687261308084187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.2998001, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b058dd2879cffc80800000000000000
+      internalID: -8286683271336013644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 0
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.30099946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe166f8474013d720800000000000000
+      internalID: 2869655285917966831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.30099946, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f14e9b26465e3f60800000000000000
+      internalID: 8015939246145552889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 2
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.2989998, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87ec90d6d90f84f0800000000000000
+      internalID: -824429388557916278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_11
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.36526328, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266b856ecf90f8ac0800000000000000
+      internalID: -3850848174577502622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_12
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.298999, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b164c1d3b4ad1e230800000000000000
+      internalID: 3666451588338959899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_13
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7109f9128ac8f2a0800000000000000
+      internalID: -6703385385210674821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 2
+        width: 20
+        height: 28
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70096f4ae569b8270800000000000000
+      internalID: 8253856075325280263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_15
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 0
+        width: 19
+        height: 31
+      alignment: 9
+      pivot: {x: 0.36842105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b4e2d0a247ce870800000000000000
+      internalID: 8713467103013653334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_16
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786b32ac5d040e790800000000000000
+      internalID: -7502925692235696505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.29799956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0825614b5a7cbc0800000000000000
+      internalID: -3762856770757558063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_facemask_gun_18
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 0
+        width: 20
+        height: 31
+      alignment: 9
+      pivot: {x: 0.298999, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3466f822b550e60800000000000000
+      internalID: 7927842923048485831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

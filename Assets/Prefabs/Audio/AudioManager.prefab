@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2819709690748358616
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2819709690748358618}
+  - component: {fileID: 2819709690748358617}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2819709690748358618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819709690748358616}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2819709690748358617
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2819709690748358616}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b4db1d853c721d488b9e35589777feb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - clip: {fileID: 8300000, guid: 4f02814b62ca4c9469420ae40236bc23, type: 3}
+    loop: 0
+    volume: 0.3
+    pitch: 1.35
+    name: Shoot
+  - clip: {fileID: 8300000, guid: c83b804552f5e4deeb1d8118dadd7579, type: 3}
+    loop: 1
+    volume: 0.1
+    pitch: 1
+    name: Theme
+  - clip: {fileID: 8300000, guid: 398a631f92a5b2e4fbbf36e67e05e653, type: 3}
+    loop: 1
+    volume: 0.1
+    pitch: 1
+    name: RunGround
+  - clip: {fileID: 8300000, guid: 635bb516efecc4961a33481332684746, type: 3}
+    loop: 0
+    volume: 0.4
+    pitch: 2
+    name: HitItem
+  - clip: {fileID: 8300000, guid: ce44f5886b8417f4d867038263fa3eed, type: 3}
+    loop: 0
+    volume: 0.4
+    pitch: 1.5
+    name: ItemCollected
+  - clip: {fileID: 8300000, guid: b5df16dd84bf34042bfd9ea4b4a0dbcb, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    name: EnemyHit
+  - clip: {fileID: 8300000, guid: 2876e7fa4419a4a7096b8bb38641daa3, type: 3}
+    loop: 0
+    volume: 0.4
+    pitch: 1.5
+    name: PlayerHit
+  - clip: {fileID: 8300000, guid: 4668d9fcf8d264f3693f23878a14042b, type: 3}
+    loop: 0
+    volume: 0.5
+    pitch: 1
+    name: PlayerDeath

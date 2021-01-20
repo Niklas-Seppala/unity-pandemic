@@ -1,0 +1,16 @@
+# IDE
+.idea
+.vs
+.vscode
+.VSCodeCounter
+
+#
+*.cd
+*.sln*
+*.csproj
+.collab*
+*Logs
+*Packages
+*Library
+*Build
+*obj
