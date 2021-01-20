@@ -1,7 +1,8 @@
 # Pandemic Game project using Unity game engine
-This is a school project for a game course. We used Unitys Collaborate as VCS for the whole project, this is just a dump.
+This is a school project for a game course. Unitys Collaborate was used as VCS for the whole project, so this is just a dump.
+
+Code is located in [Scripts folder](https://github.com/Niklas-Seppala/unity-pandemic/tree/readme/Assets/Scripts)
 <br>
-Game is a 2D sidescroller platformer game.
 
 ## Screenshot
 ![alt text](https://users.metropolia.fi/~niklasts/Unity/vids/pandemic_pic.PNG)
