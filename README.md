@@ -12,6 +12,15 @@ Code is located in [Scripts folder](https://github.com/Niklas-Seppala/unity-pand
 https://www.youtube.com/watch?v=bxoLbPEJe7I
 
 
+## WebGL build
+Game is playable in browser.
+<br>
+https://users.metropolia.fi/~niklasts/Unity/WebBuild/
+
+## Windows 64 build
+https://users.metropolia.fi/~niklasts/Unity/WebBuild/Win_64/Pandemic_Win_64.zip
+
+
 ## Some nice solutions
 
 #### Generic DataAccess for SQLite
@@ -109,10 +118,3 @@ protected void OnCollisionEnter2D(Collision2D other)
 }
 ```
 
-## WebGL build
-Game is playable in browser.
-<br>
-https://users.metropolia.fi/~niklasts/Unity/WebBuild/
-
-## Windows 64 build
-https://users.metropolia.fi/~niklasts/Unity/WebBuild/Win_64/Pandemic_Win_64.zip
