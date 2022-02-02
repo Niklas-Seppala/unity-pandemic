@@ -7,6 +7,7 @@ Code is located in [Scripts folder](https://github.com/Niklas-Seppala/unity-pand
 ## Screenshot
 ![alt text](https://users.metropolia.fi/~niklasts/Unity/vids/pandemic_pic.PNG)
 
+
 ## Demo video
 https://www.youtube.com/watch?v=bxoLbPEJe7I
 
